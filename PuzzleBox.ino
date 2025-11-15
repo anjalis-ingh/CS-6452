@@ -162,7 +162,7 @@ void resetRound() {
 // array to store buttons which have been pressed
 int buttonsPressed[BUTTON_NUM];             
 // winning code
-int buttonCode[BUTTON_NUM] = {1,3,4,1};     
+int buttonCode[BUTTON_NUM] = {3,4,1,4};     
 // counting number of buttons which have been pressed
 int buttonCount = 0;                        
 // bool to check if button code entered is correct
